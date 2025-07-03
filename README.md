@@ -2,7 +2,8 @@
 Analysis and design of an electronic banking system, including DFD diagrams, ERD, decision tables, access control tables, LRS, CFD, and implementation plan. This is a university project that covers complete system analysis steps. (Document is in Persian.)
 This repository contains the complete analysis and design documents for an electronic banking system (such as mobile banking applications).
 
-# 📌 این پروژه یک نمونه پروژه تیمی دانشگاهی در زمینه تحلیل و طراحی سیستم‌های نرم‌افزاری است که شامل نمودارها، جداول و مستندات مختلف برای سیستم بانکداری الکترونیک می‌باشد.
+# 📌 این پروژه یک نمونه پروژه تیمی دانشگاهی در زمینه تحلیل و طراحی سیستم‌های نرم‌افزاری است
+ شامل نمودارها، جداول و مستندات مختلف برای سیستم بانکداری الکترونیک می‌باشد.
 هدف اشتراک‌گذاری این پروژه با دانشجویان علاقه‌مند به یادگیری تحلیل سیستم‌ها و آشنایی با مستندسازی فرآیندهای نرم‌افزاری است.
 
 ## 📄 Project Contents:
