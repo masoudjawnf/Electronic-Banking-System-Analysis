@@ -35,3 +35,10 @@ This project was developed as part of a university course on system analysis and
 
 ## 💡 Additional Info:
 Feel free to explore the documents to understand how system analysis is done for banking systems, including modeling, decision-making, and implementation planning.
+
+---
+
+## 👥 Teamwork Acknowledgment
+This project was conducted as part of a **team effort** in our university course. My contributions included analysis diagrams (DFD, ERD, etc.), documentation, and final compilation.
+
+
